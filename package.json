@@ -1,0 +1,19 @@
+{
+  "name": "newbie-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "eslint": "^7.6.0",
+    "jest": "^26.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Agung Wicaksono",
+  "license": "ISC"
+}
